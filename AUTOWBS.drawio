@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T05:16:17.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="21.8.2" etag="IOg3-K3Dijzjrl-BzYcO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T05:49:27.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="-PrHkPxRR3fcVbL1R-Oa" version="21.8.2" type="github">
   <diagram name="Page-1" id="cbly7SG4CeV-gu0TBSom">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-1" value="Start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-3" target="Rg5D6NzD-RpaUuyQBDif-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-3" value="&lt;br&gt;&lt;br&gt;Go to transaction FB01 or F-02 or FB05. Enter the correct details" style="shape=manualInput;whiteSpace=wrap;html=1;fontSize=11;size=27;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-4" target="Rg5D6NzD-RpaUuyQBDif-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-4" value="Posting Process" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-7" target="Rg5D6NzD-RpaUuyQBDif-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-7" value="Get WBS Element" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-10" target="Rg5D6NzD-RpaUuyQBDif-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-10" value="Select POSNR &lt;br&gt;from ANLA" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-11" target="Rg5D6NzD-RpaUuyQBDif-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-11" value="WBS Element&lt;br&gt;&amp;nbsp;is not initial?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-12" value="Populate" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg5D6NzD-RpaUuyQBDif-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.513;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rg5D6NzD-RpaUuyQBDif-1" target="Rg5D6NzD-RpaUuyQBDif-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
