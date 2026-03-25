@@ -287,7 +287,7 @@
         <mxCell id="FGV9UaRBX4HMntktGr08-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="SAP members&amp;nbsp;&lt;div&gt;(= Y + Z)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="690" y="447" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-88" edge="1" parent="1" source="FGV9UaRBX4HMntktGr08-87" style="endArrow=none;html=1;rounded=0;" target="srUd3eSXJYhGVoVOdPIV-31" value="">
+        <mxCell id="FGV9UaRBX4HMntktGr08-88" edge="1" parent="1" source="FGV9UaRBX4HMntktGr08-87" style="endArrow=none;html=1;rounded=0;fontSize=11;" target="srUd3eSXJYhGVoVOdPIV-31" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="650" y="400" as="sourcePoint" />
             <mxPoint x="700" y="350" as="targetPoint" />
@@ -296,19 +296,19 @@
         <mxCell id="FGV9UaRBX4HMntktGr08-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="SAP members&amp;nbsp;&lt;div&gt;(= Y + Z)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="880" y="447" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-102" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W4ZU08Z7W-b64b1466eb73-512;imageBackground=none;clipPath=inset(32.81% 28.52% 28.13% 32.42% round 49%);" value="" vertex="1">
+        <mxCell id="FGV9UaRBX4HMntktGr08-102" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W4ZU08Z7W-b64b1466eb73-512;imageBackground=none;clipPath=inset(32.81% 28.52% 28.13% 32.42% round 49%);fontSize=11;" value="" vertex="1">
           <mxGeometry height="31" width="31" x="430" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-103" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W7K6W3P38-04f85dd6a405-512;clipPath=inset(10.16% 20.7% 31.25% 20.7% round 49%);" value="" vertex="1">
+        <mxCell id="FGV9UaRBX4HMntktGr08-103" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W7K6W3P38-04f85dd6a405-512;clipPath=inset(10.16% 20.7% 31.25% 20.7% round 49%);fontSize=11;" value="" vertex="1">
           <mxGeometry height="31" width="31" x="270" y="469.36" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-104" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-U08GP65P38E-592b9f09297d-512;clipPath=inset(39.26% 30.47% 31.45% 40.23% round 49%);" value="" vertex="1">
+        <mxCell id="FGV9UaRBX4HMntktGr08-104" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-U08GP65P38E-592b9f09297d-512;clipPath=inset(39.26% 30.47% 31.45% 40.23% round 49%);fontSize=11;" value="" vertex="1">
           <mxGeometry height="31" width="31" x="600" y="469.36" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-105" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W7HE25D5F-a402a7ff5347-512;clipPath=inset(0% 0% 0% 0% round 49%);" value="" vertex="1">
+        <mxCell id="FGV9UaRBX4HMntktGr08-105" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://ca.slack-edge.com/E27SFGS2W-W7HE25D5F-a402a7ff5347-512;clipPath=inset(0% 0% 0% 0% round 49%);fontSize=11;" value="" vertex="1">
           <mxGeometry height="31" width="31" x="190" y="468.73" as="geometry" />
         </mxCell>
-        <mxCell id="FGV9UaRBX4HMntktGr08-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="FGV9UaRBX4HMntktGr08-89" value="">
+        <mxCell id="FGV9UaRBX4HMntktGr08-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=11;" target="FGV9UaRBX4HMntktGr08-89" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="360" />
